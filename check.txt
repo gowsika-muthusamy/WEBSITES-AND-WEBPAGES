@@ -1,0 +1,3 @@
+city chennai;
+i am in bangalore;
+my age is 11;
