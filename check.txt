@@ -1,0 +1,3 @@
+city bangalore;
+i am in bangalore;
+my age is 45
